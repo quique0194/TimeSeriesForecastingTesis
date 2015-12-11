@@ -1,0 +1,4 @@
+*.gz
+ruleta.py
+.idea/
+*.pyc
